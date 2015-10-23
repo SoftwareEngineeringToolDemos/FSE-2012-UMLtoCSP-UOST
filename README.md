@@ -1,5 +1,5 @@
-# FSE-2012-UMLtoCSP-UOST
-A Tool for Efficient Verification of UML/OCL Class Diagrams Through Model Slicing
+# FSE-2012-UMLtoCSPUOST
+A Tool for Efficient Verification of UML/OCL Class Diagrams Through Model Slicing.
 
 ***
 
@@ -11,6 +11,6 @@ This repository _is not_ the original repository for this tool. Here are some li
 
 In this repository, for UMLtoCSP(UOST) you will find:
 * :x: Source code (not available)
-* :white_check_mark: [Binary](https://github.com/SoftwareEngineeringToolDemos/FSE-2012-UMLtoCSP-UOST/tree/master/Binary) (available)
+* :white_check_mark: [The original tool](https://github.com/SoftwareEngineeringToolDemos/FSE-2012-UMLtoCSP-UOST/tree/master/Binary) (available)
 
 This repository was constructed by [Shrenuj Gandhi](https://github.com/shrenujgandhi), [Sarah Elder](https://github.com/seelder), [Sumeet Agarwal](https://github.com/sumeet29), [Vineela Boddula](https://github.com/boddulavineela), and [Alex Valkovsky](https://github.com/avalkovsky) under the supervision of [Emerson Murphy-Hill](https://github.com/CaptainEmerson). Thanks to Dr. Asadullah Shaikh and Dr. Uffe Kock Wiil for their help in establishing this repository.
